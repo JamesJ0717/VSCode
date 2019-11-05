@@ -1,0 +1,7 @@
+      // TODO Some comment
+      // TO\DO Some comment
+      // FIXME Some comment
+      // !TODO Some comment
+      // ? Should I reformat this?
+      // ^ Some comment
+      //+ Some comment
